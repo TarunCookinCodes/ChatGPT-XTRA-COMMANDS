@@ -1,67 +1,86 @@
-# ChatGPT-XTRA-COMMANDS
-Xtra commands for easier and better explanation 
+# ChatGPT-XTRA-COMMANDS 🚀
+Xtra commands for easier and better interaction with ChatGPT.
 
-**These are some extra commands for chatgpt that we all needs and this will help alot of users there are 18 commands in total 
-Here are the commands and there functions:-**
+**This set provides extra commands that help users get faster, more structured, and powerful responses. Total commands: 28+**
 
-/help - lists all commands and there functions
+---
 
-/solve <question> – Solves a question step by step.
+## Core Commands ⚡
 
-/f<limit> – Gives a short answer (default 300 chars).
+- **/help** – Lists all commands and their functions.  
+- **/solve <question>** – Solves a question step by step.  
+- **/f<limit>** – Gives a short answer (default 300 chars).  
+- **/e** – Shows only the requested content, no extra discussion.  
+- **/d** – Detailed, highly comprehensive answers.  
+- **/cm** – Compresses text without changing meaning.  
 
-/e – Shows only the requested content, no extra discussion.
+---
 
-/d – Detailed, highly comprehensive answers.
+## Prompt & Content Enhancers ✨
 
-/cm – Compresses text without changing meaning.
+- **/eh** – Improves your prompt.  
+- **/eh1** – Improves prompt and answer.  
+- **/ehi** – Improves prompt/answer and generates higher-quality image if attached.  
+- **/alt** – Adjusts prompts to work without changing meaning.  
 
+---
 
-**Prompt & Content Enhancers:**
+## Tools & Utilities 🛠️
 
-/eh – Improves your prompt.
+- **/mvp** – MVP-style guide for AI/app creation.  
+- **/gui** – Generates a graphical interface for a topic.  
+- **/img** – Generates an image.  
+- **/imgs** – Combines `/img` and `/s` for fast image output.  
+- **/nz** – Latest news & current affairs.  
+- **/upd** – Checks for updates on ChatGPT Xtra commands.  
+- **/m <word/meme>** – Explains meaning of a word or meme.  
+- **/altapp** – Provides free alternative apps/tools (often GitHub-based).  
+- **/com** – Compare information.  
+- **/ui** – Generates a UI template.  
+- **/rd<min,max>** – Picks a random number in the given range.  
 
-/eh1 – Improves prompt and answer.
+---
 
-/ehi – Improves prompt/answer and generates a higher-quality image if attached.
+## Memory & Session Management 🧠
 
-/alt – Adjusts prompts to work without changing meaning.
+- **/r1** – Resets memory/data.  
+- **/r2** – Refreshes the chat.  
+- **/r** – Refreshes session.  
 
+---
 
-**Tools & Utilities:**
+## New Commands (v2.0.0) ⚡
 
-/mvp – MVP-style guide for AI/app creation.
+| Command | Function / Description |
+|---------|-----------------------|
+| **/an** | Provides analytics or summarizes content for easy understanding. |
+| **/sm** | Simulates social media interactions or fetches related info. |
+| **/tr** | Translates text between languages quickly. |
+| **/cg** | Generates creative content, ideas, or text automatically. |
+| **/rf** | Refreshes or regenerates previously generated content. |
+| **/ch** | Simulates chat context or manages conversation flow. |
+| **/fc** | Performs fast computations or calculations. |
+| **/en** | Enhances text clarity, readability, and formatting. |
+| **/dm** | Simulates direct/private messaging or outputs content privately. |
+| **/st** | Checks status of commands, sessions, or system state. |
 
-/gui – Generates a graphical interface for a topic.
+---
 
-/img – Generates an image.
+## Miscellaneous 🎵
 
-/nz – Latest news & current affairs.
+- **/l** – Fetches song lyrics and translates if needed.  
+- **/Credits** – Shows creator and tester credits. Testers: Divyansh L., Hardik W., Vansh K., Anmol.  
 
-/upd – Checks for updates on ChatGPT Xtra commands.
+---
 
-/m <word/meme> – Explains meaning of word or meme.
+## ★ How to Apply it:
 
+1. Open ChatGPT → Tap the 2 Lines at Top Left → Tap On Your Account → Personalization → Custom Instructions.  
+2. Paste the code provided.  
+3. Enjoy the full Xtra command suite!  
 
-**Memory & Session Management:**
+---
 
-/r1 – Resets memory/data.
+## Version 📝
 
-/r2 – Refreshes the chat.
-
-/r – Refreshes session.
-
-
-**Miscellaneous:**
-
-/l – Fetches song lyrics and translates if needed.
-
-/Credits – Shows creator and tester credits.
-
-**★How to Apply it:-**
-
-**1. Open ChatGPT > Tap 2 Lines at Top Left Corner > Tap On Your Account > Personalization > In Custom Instructions > Paste The Code Provided**
-
-**Credits**
-**Creater** - Tarun Kumar
-**Testers** - Divyansh Lalwani, Hardik Wadhwa, Vansh Kabir & Anmol
+**v2.0.0 + 10 new commands**
