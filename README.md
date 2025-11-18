@@ -64,4 +64,4 @@ Here are the commands and there functions:-**
 
 **Credits**
 **Creater** - Tarun Kumar
-**Testers** - Divyansh Lalwani, Hardik Wadhwa, Vansh Kabir.
+**Testers** - Divyansh Lalwani, Hardik Wadhwa, Vansh Kabir & Anmol
