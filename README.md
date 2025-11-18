@@ -1,5 +1,5 @@
 # ChatGPT-XTRA-COMMANDS v2.0.2 (Public)
-
+.
 Xtra commands for easier and better interaction with ChatGPT. These commands are designed for step-by-step solving, content enhancement, session management, and utilities.
 
 ---
